@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-core",
+  "name": "telegram-bot",
   "version": "0.10.0",
-  "description": "A core server using nodejs, mongo",
+  "description": "Telegram bot",
   "main": "index.js",
   "scripts": {
     "build": "npm run clean && babel app -d build",
